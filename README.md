@@ -1,26 +1,75 @@
-<h1 align="center">Salut 👋, moi c'est Antivirus</h1>
-<h3 align="center">Passionné de serveurs, VPN & Minecraft</h3>
+<h1 align="center">👋 Salut, moi c'est Antivirus</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY0b2ZkMW5hY3N5Z2Z0dHV0b3Y0b2x6Z3Z5eGx0bGZ6dGJ1a3V6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionné+de+Tech;Admin+Linux;Dev+Bots+Discord;Minecraft+Server+Owner" />
 </p>
 
 ---
 
-### 🚀 Mes projets
-- 🔒 VPN WireGuard
-- 🤖 Bot Discord
-- 🎮 Serveurs Minecraft
+## 🧠 À propos de moi
+- 🔒 Passionné de **sécurité & VPN**
+- 🖥️ Admin **Linux / Proxmox / Docker**
+- 🤖 Dev **bots Discord**
+- 🎮 Serveurs **Minecraft**
 
 ---
 
-### 🛠️ Technologies
-- Linux 🐧
-- Docker 🐳
-- Proxmox
-- Node.js
+## 🚀 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONPSEUDO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 📫 Me contacter
-- Discord : tonpseudo#0000
+## 🔥 Streak (activité)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TONPSEUDO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,git,github,nginx,mysql" />
+</p>
+
+---
+
+## 🧩 Badges cool
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Expert-blue?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Docker-User-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/WireGuard-VPN-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Minecraft-Server-green?style=for-the-badge&logo=minecraft"/>
+</p>
+
+---
+
+## 📡 Activité GitHub (graph animé)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONPSEUDO&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Animation Snake (trop stylé)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TONPSEUDO/TONPSEUDO/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord"/>
+  </a>
+</p>
