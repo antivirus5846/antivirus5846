@@ -17,8 +17,8 @@
 ## 🚀 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONPSEUDO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antivirus5846&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antivirus5846&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🔥 Streak (activité)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TONPSEUDO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=antivirus5846&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 📡 Activité GitHub (graph animé)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONPSEUDO&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antivirus5846&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🐍 Animation Snake (trop stylé)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TONPSEUDO/TONPSEUDO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/antivirus5846/antivirus5846/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
