@@ -73,3 +73,16 @@
     <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord"/>
   </a>
 </p>
+```md
+---
+
+## 🛡️ AbuseIPDB Contributor
+
+<p align="center">
+  <a href="https://www.abuseipdb.com/user/220280" title="AbuseIPDB Contributor">
+    <img src="https://www.abuseipdb.com/contributor/220280.svg"
+         alt="AbuseIPDB Contributor Badge"
+         style="width: 413px; border-radius: 5px; border-top: 5px solid #058403; border-right: 5px solid #111; border-bottom: 5px solid #111; border-left: 5px solid #058403; background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0)); padding: 5px;">
+  </a>
+</p>
+```
