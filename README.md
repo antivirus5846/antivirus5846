@@ -73,11 +73,11 @@
     <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord"/>
   </a>
 </p>
-```md
----
 
 ## 🛡️ AbuseIPDB Contributor
 
 <a href="https://www.abuseipdb.com/user/220280" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
   <img src="https://www.abuseipdb.com/contributor/220280.svg" alt="AbuseIPDB Contributor Badge" style="width: 391px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0)); padding: 5px;">
 </a>
+```md
+---
