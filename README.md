@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Antivirus</h1>
 
 <p align="center">
-  <img src="https://img.oraheberg.ovh/BejE2/GedeCoSo14.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/antivirus5846/antivirus5846/main/logo.png" width="120"/>
 </p>
 
 <p align="center">
