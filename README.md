@@ -93,3 +93,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord"/>
 </p>
+👉 https://discord.gg/BNu23aEMZH/
